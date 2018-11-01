@@ -3,6 +3,7 @@
 > A small DOS script targeting an unpatched vulnerability in wordpress sites. 
 > Uses `/wp-admin/load-scripts.php` to request additional scripts from hosting server.
 > Includes large list of scripts as request payload
+> This implementation is for testing purposes only
 
 ## Usage
 
